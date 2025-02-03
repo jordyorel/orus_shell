@@ -43,16 +43,16 @@ This project is a simple Unix shell written in C. It provides an interactive com
 ### 📥 Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/simple-shell.git
-   cd simple-shell
+   git clone https://github.com/jordyorel/orus_shell.git
+   cd orus_shell
    ```
 2. Compile the shell:
    ```sh
-   gcc -o shell main.c -lreadline
+   gcc -o orus main.c -lreadline
    ```
 3. Run the shell:
    ```sh
-   ./shell
+   ./orus
    ```
 
 ### 📌 Usage
