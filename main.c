@@ -1,3 +1,8 @@
+/*This file contains the Oru's original code 
+*   that has been spilted to multiple files in src
+*/
+
+
 // #include <stdio.h>
 // #include <string.h>
 // #include <stdlib.h>
